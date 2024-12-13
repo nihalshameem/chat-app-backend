@@ -23,7 +23,7 @@ Ensure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/chat-app-backend.git
+git clone https://github.com/nihalshameem/chat-app-backend.git
 cd chat-app-backend
 ```
 
